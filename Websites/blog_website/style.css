@@ -1,0 +1,24 @@
+*{
+	padding:0; margin:0;
+}
+body{
+	font:13px Tahoma; line-height:1.3;
+}
+a{
+	color:#666;
+}
+a:hover{
+	text-decoration:none;
+}
+p{
+	margin-bottom:5px;
+}
+.main{
+	margin:50px auto; width:500px; 
+}
+a[href^="mailto"]{
+	background:url(image/ico-mail.png) left 5px no-repeat; padding: 2px 0px 2px 23px;
+}
+a[href^="ftp://"]{
+	background:url(image/ico-ftp.png) left 5px no-repeat; padding: 2px 0px 2px 23px;
+}
