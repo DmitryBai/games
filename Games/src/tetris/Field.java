@@ -1,4 +1,4 @@
-package com.javarush.task.task22.task2213;
+package tetris;
 
 import java.util.ArrayList;
 
