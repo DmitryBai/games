@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Games/Games.iml" filepath="$PROJECT_DIR$/Games/Games.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Soft/Soft.iml" filepath="$PROJECT_DIR$/Soft/Soft.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my_project.iml" filepath="$PROJECT_DIR$/my_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Games.iml" filepath="$PROJECT_DIR$/Games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arkanoid/arkanoid.iml" filepath="$PROJECT_DIR$/arkanoid/arkanoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake/snake.iml" filepath="$PROJECT_DIR$/snake/snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spaceInvader/spaceInvader.iml" filepath="$PROJECT_DIR$/spaceInvader/spaceInvader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetris/tetris.iml" filepath="$PROJECT_DIR$/tetris/tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoZeroFourEight/twoZeroFourEight.iml" filepath="$PROJECT_DIR$/twoZeroFourEight/twoZeroFourEight.iml" />
     </modules>
   </component>
 </project>
